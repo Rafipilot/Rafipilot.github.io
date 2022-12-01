@@ -83,6 +83,10 @@ h1 {
 
 }
 
+.video{
+  text-align: center;
+}
+
 #pic2{
   
     height: 30rem; 
@@ -142,8 +146,17 @@ a {
     height: 17rem;
     width: 20rem;
     margin-top: 1rem;
-  
 }
+
+#pic7{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 25rem;
+  width: 20rem;
+  margin-top: 1rem;
+}
+
 
  * {
     box-sizing: border-box;
