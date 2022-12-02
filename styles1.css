@@ -88,8 +88,8 @@ h1 {
 }
 
 #pic2{
-  
-    height: 30rem; 
+    size: 1%;
+    /* height: 5%;  */
     margin-left: auto;
     margin-right: auto;
 }
