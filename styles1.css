@@ -334,7 +334,15 @@ a {
     animation-fill-mode: both;
   }
 
-  #particle.js{
-    width:100%
-    /* height:100% */
+
+  canvas{
+    display:block;
+    vertical-align: bottom;
+  }
+  #particles-js{
+    position: absolute;
+    width:100%;
+    height:100% ;
+    background-position: 50% 50%;
+    z-index: -100;
   }
